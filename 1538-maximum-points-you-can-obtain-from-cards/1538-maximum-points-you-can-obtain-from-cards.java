@@ -8,15 +8,13 @@ class Solution {
 
         int max = sum;
 
-        int leftSum = max;;
         int right = cardPoints.length-1;
-        int rightSum = 0;
 
         for(int j = k-1; j>=0; j--) {
-            leftSum-=cardPoints[j];
-            rightSum+=cardPoints[right--];
+            sum-=cardPoints[j];
+            sum+=cardPoints[right--];
 
-            max = Math.max(max, leftSum+rightSum);
+            max = Math.max(max,sum);
         }
 
         return max;
