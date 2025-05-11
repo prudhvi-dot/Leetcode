@@ -2,10 +2,9 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
 
-        generate(nums,0,new ArrayList<Integer>(), res);
+        generate(nums, 0, new ArrayList<Integer>(), res);
 
         return res;
-
     }
 
     void generate(int[] nums, int i, List<Integer> list, List<List<Integer>> res) {
