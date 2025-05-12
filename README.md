@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/prudhvi-dot/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prudhvi-dot/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/prudhvi-dot/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prudhvi-dot/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/prudhvi-dot/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/prudhvi-dot/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
