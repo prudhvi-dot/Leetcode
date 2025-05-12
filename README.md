@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/prudhvi-dot/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -114,4 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
