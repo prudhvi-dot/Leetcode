@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
