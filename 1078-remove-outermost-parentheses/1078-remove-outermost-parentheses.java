@@ -2,23 +2,23 @@ class Solution {
     public String removeOuterParentheses(String s) {
         int opened = 0;
 
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
 
         for(int i = 0; i<s.length(); i++) {
             if(s.charAt(i)=='(') {
                 if(opened>0) {
-                  ans+='(';  
+                  ans.append("(");  
                 }
                 opened++;
             }
             else {
                 if(opened>1) {
-                    ans+=")";
+                    ans.append(")");
                 }
                 opened--;
             }
         }
 
-        return ans;
+        return ans.toString();
     }
 }
