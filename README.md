@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prudhvi-dot/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prudhvi-dot/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prudhvi-dot/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
