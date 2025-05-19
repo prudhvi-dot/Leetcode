@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prudhvi-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prudhvi-dot/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/prudhvi-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prudhvi-dot/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/prudhvi-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/prudhvi-dot/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prudhvi-dot/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0022-generate-parentheses) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prudhvi-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prudhvi-dot/Leetcode/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/prudhvi-dot/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
