@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/prudhvi-dot/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prudhvi-dot/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prudhvi-dot/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prudhvi-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prudhvi-dot/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prudhvi-dot/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
