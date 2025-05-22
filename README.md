@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prudhvi-dot/Leetcode/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prudhvi-dot/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
+| [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
 ## String
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/prudhvi-dot/Leetcode/tree/master/0812-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
