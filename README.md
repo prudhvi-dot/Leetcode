@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prudhvi-dot/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/prudhvi-dot/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prudhvi-dot/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prudhvi-dot/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/prudhvi-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## String
 |  |
 | ------- |
