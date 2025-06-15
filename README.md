@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prudhvi-dot/Leetcode/tree/master/0724-find-pivot-index) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
