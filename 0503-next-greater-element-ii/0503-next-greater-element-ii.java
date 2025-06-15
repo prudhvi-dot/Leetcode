@@ -11,7 +11,11 @@ class Solution {
                 stack.pop();
             }
 
-            ans[i%nums.length] = stack.isEmpty()?-1:stack.peek();
+            if(i<nums.length) {
+              ans[i] = stack.isEmpty()?-1:stack.peek();  
+            }
+
+            
 
             stack.push(nums[i%nums.length]);
         }
