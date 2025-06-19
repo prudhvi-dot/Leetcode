@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/prudhvi-dot/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prudhvi-dot/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/prudhvi-dot/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
