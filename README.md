@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prudhvi-dot/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prudhvi-dot/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/prudhvi-dot/Leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/prudhvi-dot/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/prudhvi-dot/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/prudhvi-dot/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/prudhvi-dot/Leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
