@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/prudhvi-dot/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/prudhvi-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prudhvi-dot/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/prudhvi-dot/Leetcode/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
