@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prudhvi-dot/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prudhvi-dot/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prudhvi-dot/Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/prudhvi-dot/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prudhvi-dot/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/prudhvi-dot/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/prudhvi-dot/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/prudhvi-dot/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prudhvi-dot/Leetcode/tree/master/0735-asteroid-collision) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prudhvi-dot/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prudhvi-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/prudhvi-dot/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
