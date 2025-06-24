@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/prudhvi-dot/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-dot/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/prudhvi-dot/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/prudhvi-dot/Leetcode/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -292,4 +294,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-dot/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prudhvi-dot/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
