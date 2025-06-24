@@ -1,23 +1,15 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        Map<Integer,Double> map = new HashMap<>();
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)-> Integer.compare(a[0]*a[0] + a[1]*a[1], b[0]*b[0] + b[1]*b[1]));
 
-        for(int i = 0; i<points.length; i++) {
-            map.put(i,Math.sqrt(Math.pow(points[i][0],2)+Math.pow(points[i][1],2)));
+        for(int[] a : points) {
+            pq.add(a);
         }
 
-        PriorityQueue<Map.Entry<Integer,Double>> pq = new PriorityQueue<>((a,b)->Double.compare(a.getValue(),b.getValue()));
-
-        for(Map.Entry<Integer,Double> entry : map.entrySet()) {
-            pq.add(entry);
-        }
-
-        int[][] ans = new int[k][];
+        int[][] ans = new int[k][2];
 
         for(int i = 0; i<k; i++) {
-           int index = pq.poll().getKey();
-
-           ans[i] = new int[] {points[index][0], points[index][1]};
+            ans[i] = pq.poll();
         }
 
         return ans;
