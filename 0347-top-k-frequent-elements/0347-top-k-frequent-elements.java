@@ -6,7 +6,7 @@ class Solution {
             map.put(n,map.getOrDefault(n,0)+1);
         }
 
-        PriorityQueue<Map.Entry<Integer,Integer>> maxHeap = new PriorityQueue<>((a,b)->b.getValue()-a.getValue());
+        PriorityQueue<Map.Entry<Integer,Integer>> maxHeap = new PriorityQueue<>((a,b)->Integer.compare(b.getValue(),a.getValue()));
 
         for(Map.Entry<Integer,Integer> entry: map.entrySet()) {
             maxHeap.add(entry);
