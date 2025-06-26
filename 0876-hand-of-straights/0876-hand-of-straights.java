@@ -11,7 +11,7 @@ class Solution {
         }
 
         for(int n : hand) {
-            if (!map.containsKey(n)) continue;
+            // if (!map.containsKey(n)) continue;
             int count = 0;
 
             if(!map.containsKey(n-1)) {
