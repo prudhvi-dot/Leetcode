@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/prudhvi-dot/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prudhvi-dot/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prudhvi-dot/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/prudhvi-dot/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/prudhvi-dot/Leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prudhvi-dot/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prudhvi-dot/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prudhvi-dot/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/prudhvi-dot/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/prudhvi-dot/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/prudhvi-dot/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/prudhvi-dot/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prudhvi-dot/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/prudhvi-dot/Leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/prudhvi-dot/Leetcode/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prudhvi-dot/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/prudhvi-dot/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
