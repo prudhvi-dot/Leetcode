@@ -1,36 +1,27 @@
 class Solution {
     public boolean isPossibleDivide(int[] nums, int k) {
 
-        if(nums.length%k!=0) return false;
+        if (nums.length % k != 0) return false;
 
-        TreeMap<Integer,Integer> map = new TreeMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-        int total = 0;
+        Arrays.sort(nums);
 
         for(int n : nums) {
             map.put(n, map.getOrDefault(n,0)+1);
         }
 
-        while(!map.isEmpty()) {
-            int val = map.firstKey();
-
-            int count = 0;
-
-            while(map.containsKey(val) && count<k) {
-                count++;
-                map.put(val,map.get(val)-1);
-
-                if(map.get(val)==0) {
-                    map.remove(val);
+        for(int n : nums) {
+            if (map.get(n) == 0) continue;
+            for(int i = n; i<n+k; i++) {
+                if(!map.containsKey(i)) {
+                    return false;
                 }
-                val++;
-            }
 
-            if(count==k) {
-                total++;
+                map.put(i, map.get(i)-1);
             }
         }
 
-        return total==(nums.length/k);
+        return true;
     }
 }
