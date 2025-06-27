@@ -18,7 +18,7 @@ class Solution {
             }else if(money==10) {
                 int change = money-5;
 
-                if(change==5 && fives==0) {
+                if(fives==0) {
                     return false;
                 }
                 else {
