@@ -4,8 +4,6 @@ class Solution {
             return false;
         }
 
-        int withMe = 0;
-
         int fives = 0;
 
         int tens = 0;
