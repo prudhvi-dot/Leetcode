@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/prudhvi-dot/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/prudhvi-dot/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/prudhvi-dot/Leetcode/tree/master/0621-task-scheduler) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prudhvi-dot/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/prudhvi-dot/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0943-sum-of-subarray-minimums](https://github.com/prudhvi-dot/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
