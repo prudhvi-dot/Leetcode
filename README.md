@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prudhvi-dot/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/prudhvi-dot/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prudhvi-dot/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/prudhvi-dot/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prudhvi-dot/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/prudhvi-dot/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prudhvi-dot/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
