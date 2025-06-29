@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prudhvi-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/prudhvi-dot/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0334-increasing-triplet-subsequence](https://github.com/prudhvi-dot/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/prudhvi-dot/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/prudhvi-dot/Leetcode/tree/master/0455-assign-cookies) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/prudhvi-dot/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/prudhvi-dot/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/prudhvi-dot/Leetcode/tree/master/0621-task-scheduler) |
