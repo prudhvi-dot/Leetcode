@@ -1,10 +1,10 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String rev = "";
+        StringBuilder rev = new StringBuilder();
 
         for(int i = 0; i<s.length(); i++) {
             if(Character.isLetterOrDigit(s.charAt(i))) {
-                rev += Character.toUpperCase(s.charAt(i));
+                rev.append(Character.toUpperCase(s.charAt(i)));
             }
         }
 
