@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/prudhvi-dot/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/prudhvi-dot/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prudhvi-dot/Leetcode/tree/master/0056-merge-intervals) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/prudhvi-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prudhvi-dot/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/prudhvi-dot/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/prudhvi-dot/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/prudhvi-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0142-linked-list-cycle-ii) |
