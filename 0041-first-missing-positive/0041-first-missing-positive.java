@@ -5,7 +5,7 @@ class Solution {
         while(i<nums.length) {
             int actual = nums[i]-1;
 
-            if(i==actual || nums[i]<=0 || actual>=nums.length || nums[i]==nums[actual]) {
+            if(nums[i]<=0 || actual>=nums.length || nums[i]==nums[actual]) {
                 i++;
             }else {
                 int temp = nums[i];
