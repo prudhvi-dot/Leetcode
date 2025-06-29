@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prudhvi-dot/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prudhvi-dot/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prudhvi-dot/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/prudhvi-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/prudhvi-dot/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/prudhvi-dot/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/prudhvi-dot/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prudhvi-dot/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prudhvi-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/prudhvi-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/prudhvi-dot/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/prudhvi-dot/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/prudhvi-dot/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/prudhvi-dot/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/prudhvi-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/prudhvi-dot/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
