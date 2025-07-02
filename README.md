@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prudhvi-dot/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prudhvi-dot/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prudhvi-dot/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/prudhvi-dot/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/prudhvi-dot/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prudhvi-dot/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prudhvi-dot/Leetcode/tree/master/0078-subsets) |
