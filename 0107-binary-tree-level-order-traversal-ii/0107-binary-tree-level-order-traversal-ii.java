@@ -46,11 +46,11 @@ class Solution {
             }
             
             if(!temp.isEmpty()) {
-                list.add(temp);
+                list.add(0,temp);
             }
         }
 
-        Collections.reverse(list);
+        // Collections.reverse(list);
 
         return list;
     }
